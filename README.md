@@ -9,7 +9,7 @@ Tous les projets réalisés dans le cadre du module **Deep Learning Appliqué** 
 | Projet | Description | Lien | Technologies |
 |-------|-------------|------|--------------|
 | **RL GridWorld – 3 Régimes Q-Learning** | Comparaison du comportement d’un agent Q-Learning face à un goal fixe, choisi ou mobile (non-stationnaire) | [→ Voir le projet](https://github.com/Koffi-Moise/RL-gridworld-three-regime-Q_learning) | Python • Matplotlib • Q-Learning • Visualisation temps réel |
-| **Teachable Machine (No-Code ML/DL)** | Application Gradio complète pour entraîner et déployer des modèles ML & DL **sans coder** | [→ Voir le projet](https://github.com/Koffi-Moise/teachable-machine-gradio) *(à créer plus tard)* | Gradio • TensorFlow/Keras • Scikit-learn • ydata-profiling • Export .h5 |
+| **Teachable Machine (No-Code ML/DL)** | Application Gradio complète pour entraîner et déployer des modèles ML & DL **sans coder** | [→ Voir le projet](https://github.com/Koffi-Moise/Teachable-Machine)  | Gradio • TensorFlow/Keras • Scikit-learn • ydata-profiling • Export .h5 |
 | *(+ futurs projets ici)* | | | |
 
 ---
