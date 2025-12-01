@@ -17,9 +17,7 @@ Tous les projets réalisés dans le cadre du module **Deep Learning Appliqué** 
 ### Objectif du dépôt
 Centraliser tous mes travaux de Deep Learning et Reinforcement Learning :
 - Code propre et modulaire
-- Visualisations interactives
 - README détaillés
-- Prêt à être présenté en soutenance ou en entretien
 
 ---
 
@@ -27,6 +25,5 @@ Centraliser tous mes travaux de Deep Learning et Reinforcement Learning :
 **Année** : 2025  
 **Statut** : En cours de construction
 
-⭐ N’hésite pas à mettre une étoile si tu aimes le travail !
 
 ---
