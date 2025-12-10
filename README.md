@@ -1,4 +1,4 @@
-# Apply Deep Learning – Portfolio Personnel
+# Apply Deep Learning – Portfolio
 
 Tous les projets réalisés dans le cadre du module **Deep Learning Appliqué** (2025).
 
@@ -15,7 +15,7 @@ Tous les projets réalisés dans le cadre du module **Deep Learning Appliqué** 
 ---
 
 ### Objectif du dépôt
-Centraliser tous mes travaux de Deep Learning et Reinforcement Learning :
+Centraliser tous les travaux de Deep Learning et Reinforcement Learning :
 - Code propre et modulaire
 - README détaillés
 
